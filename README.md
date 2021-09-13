@@ -94,8 +94,8 @@ ___
 | Cloyd | Rayl's branch |
 | Rayl | Arnan's branch |
 
-e.g. Arnan -> will checkout to `cloyd-task` branch
-Note: Wait for others if you cannot fetch their remote branch.
+e.g. Arnan -> will checkout to `cloyd-task` branch. 
+**Note**: Wait for others if you cannot fetch their remote branch.
 
 25. Pop your stash code. Conflict will occur.
 
