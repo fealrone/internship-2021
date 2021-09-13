@@ -6,8 +6,8 @@ This hands-on activity is to gauge your knowledge in Versioning.
 3. Create a new text file and name it according to your name. Leave it blank.
 
 	#### Question#1
-	1. If we want to check the modified/untracked files, what git command should you execute?
-	2. What is/are the name(s) of the **untracked** file(s)?
+	1. If we want to check the modified/untracked files, what git command should you execute?  
+	2. What is/are the name(s) of the **untracked** file(s)?  
 ___
 
 4.  Stage and commit only the `Hello.txt` file. Any commit message would do.
@@ -31,11 +31,11 @@ ___
 	1. What is the first commit's hash code?
 	2. What is the command to display up to 2 recent logs?
 	3. Write the default keyboard inputs when browsing/exiting in the log.  
-			a. Move page up. 
-			b. Move page down. 
-			c. Move to next line. 
-			d. Move to previous line. 
-			e. Exit log. 
+			a. Move page up.  
+			b. Move page down.  
+			c. Move to next line.  
+			d. Move to previous line.  
+			e. Exit log.  
 ---
 8. Edit `Hello.txt` and add today's date(any date format) next to your course.
 9. Edit the file you created before (file containing your name as its filename), add your school's name in it.
@@ -64,9 +64,9 @@ ___
 		2. If one of the mentors wants to get a copy of your newly pushed branch to his local, what command should he use in order to download contents from the remote repository?
 		3. What is the command to list down all local branches?
 		4. (**Bonus!**) How about list down all remote branches?
-		5. Suppose you go back to master/main branch and delete your `<your name>-feature` branch,  can you still move back to your local branch?
-			a. If yes, will it automatically create a local branch by simply checking it out?
-			b. If no, do you still need to create a new branch bearing the name `<your name>-feature` branch?
+		5. Suppose you go back to master/main branch and delete your local `<your name>-feature` branch, can you still move back to your local branch?  
+			a. If yes, will it automatically create a local branch by simply checking it out?  
+			b. If no, do you still need to create a new branch bearing the name `<your name>-feature` branch?  
 ---
 17. Go back to master/main branch.
 18. Delete your newly created local branch `<your name>-feature-branch`.
