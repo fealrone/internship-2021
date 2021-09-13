@@ -21,7 +21,7 @@ ___
 6. Stage and commit **all** **unstaged** files (meaning, all modified / untracked files).
 
 	#### Question#3
-	1. What is/are the commands you used in stage-committing all the files **at once**?
+	1. What is/are the commands you used in stage-committing all the files **at once**? (Regardless of there status i.e. untracked, modified, etc.)
 	2. Can you amend/change the commit message after committing it? If yes, how? If no, why? (If yes, name the command(s))
 ---
 
@@ -30,7 +30,7 @@ ___
 	#### Question#4
 	1. What is the first commit's hash code?
 	2. What is the command to display up to 2 recent logs?
-	3. Write the default keyboard inputs when browsing/exiting in the log.  
+	3. (**Bonus!**) Write the default keyboard inputs when browsing/exiting in the log in the command line/git bash.  
 			a. Move page up.  
 			b. Move page down.  
 			c. Move to next line.  
