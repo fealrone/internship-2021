@@ -110,3 +110,4 @@ e.g. Arnan -> will checkout to `cloyd-task` branch.
 28. Commit and push  it to its origin branch (remote branch).
 29. Go back to main/master branch.
 30. Merge your own branch to  main/master branch. Resolve conflict(s) if deemed necessary.
+
